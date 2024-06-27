@@ -1,4 +1,4 @@
-👋 Hello! 
+####👋 Hello! 
 
 😊 I'm Josh, a full stack developer with a long journey from building my first computer in high school to completing a web development program at NSS. I specialize in C#/.NET, SQL, and React.
 
