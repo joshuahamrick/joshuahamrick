@@ -7,3 +7,4 @@
 🤖 I'm interested in learning more about cryptology and steganography - especially as it relates to Web3 and Blockchain technologies as I advance in my career.
 
 💪 Check out my projects and let me know if I could be a fit!
+
