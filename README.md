@@ -1,7 +1,9 @@
 ### 👋 Hello
 
-😊 I'm Josh, a full stack developer with a long journey from building my first computer in high school to completing a web development program at NSS. I specialize in C#/.NET, SQL, and React.
+I'm Josh! The Lead Software and Marketing Engineer at Adventureworks.
 
-💻 I'm currently spending my time with the NSS Advanced SQL course, Harvard's CS50 and AWS training. Fresh out of Nashville Software School and eager to dive into the tech industry! 
+I graduated from NSS, specializing in C#/.NET, SQL, and React. I've since contributed to multiple projects now in production, which has provided me with exposure to Next.js, TypeScript, ArcGIS, Mapbox and Tailwind CSS. 
 
-🤖 I'm interested in learning more about cryptology and steganography - especially as it relates to Web3 and Blockchain technologies as I advance in my career.
+I love to tinker with other languages and different AI products as they are developed! May get into making some of my own soon.. Interested in Blockchain and Cryptography. 🤖
+
+I'm open to work and love to chat about all things tech. Give me a shout!
