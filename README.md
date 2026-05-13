@@ -1,9 +1,3 @@
 ### 👋 Hello
 
-I'm Josh! The Lead Software Engineer at Adventureworks and Programmer at NewCourse Communications.
-
-Graduate of NSS, specializing in C#/.NET, SQL, and React. I've contributed to multiple projects now in production, which has provided me with exposure to Next.js, TypeScript, ArcGIS, Mapbox and Tailwind CSS. 
-
-I love to tinker with other languages and different projects as they are developed! Currently designing some of my own.. Shoot me a message if you're looking for a new project.
-
-I'm open to work and always love to chat. Give me a shout!
+I architect AI-powered systems, automation platforms, and full-stack applications as Co-Founder of Starfish Engineering, shipping production software for business clients with a lean four-person team. I also lead software development at Adventureworks and engineer data-driven communication templates at NewCourse Communications. I love building things that actually change how teams work - and I'm always interested in connecting with people doing the same.
